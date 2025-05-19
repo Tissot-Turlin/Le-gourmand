@@ -7,3 +7,5 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en licenc
 - Le bien être animal
 
 # Réalisation du projet 
+
+![Texte alternatif](branchement.jpg)
