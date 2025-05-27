@@ -32,9 +32,9 @@ Pour ce projet nous avions besoin de :
 
 Lors de l'élaboration de notre projet nous avons rencontré des difficultés.
 
-D'origine mécanique : - Le servo-moteur à une limite mécanique, il ne peut tourner que de 180°
-
-                      - La forme de la structure ne permettait pas une bonne circulation des pales
+D'origine mécanique : 
+- Le servo-moteur à une limite mécanique, il ne peut tourner que de 180°
+- La forme de la structure ne permettait pas une bonne circulation des pales
 
                       
 D'oginine câblage : - Inversion des branchements “echo/trig” du capteur de distance
