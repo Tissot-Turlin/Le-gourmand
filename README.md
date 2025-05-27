@@ -37,4 +37,24 @@ D'origine mécanique :
 - La forme de la structure ne permettait pas une bonne circulation des pales
 
                       
-D'oginine câblage : - Inversion des branchements “echo/trig” du capteur de distance
+D'oginine câblage : 
+- Inversion des branchements “echo/trig” du capteur de distance
+
+# Modifications apportées
+
+Lors de la conception schématisé de notre projet nous avions vu les chose comme ça :
+
+- Forme conique du support
+- Capteur utilisé pour mesurer la hauteur de la gamelle 
+
+<img width="390" alt="Chat original" src="https://github.com/user-attachments/assets/f19923f1-017e-4f03-9a8b-43003aa970b6" /> 
+
+Avec les réfléxions que nous nous sommes faites nous afin modifié le model pour celui-ci : 
+
+- Forme circulaire pour une meilleur circulation des pales  
+- Capteur de présence
+
+<img width="401" alt="chat final" src="https://github.com/user-attachments/assets/3e38709e-886f-4ee6-8cd0-e1cc33e8bd92" />
+
+
+
