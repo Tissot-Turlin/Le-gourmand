@@ -8,3 +8,4 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en licenc
 
 # Réalisation du projet 
 
+<img width="247" alt="diagramme" src="https://github.com/user-attachments/assets/f26af751-341e-4f31-a3cc-634cd8aac2f1" />
