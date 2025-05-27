@@ -25,8 +25,3 @@
 ### Séance 6 – 19 Mai 2025
 - Récupération de carton
 - Création de la structure 
-### Séance 6 – 12 Mai 2025
--
-
-### Séance 7 – 19 Mai 2025
-- 
