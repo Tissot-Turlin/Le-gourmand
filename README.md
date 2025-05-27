@@ -56,5 +56,7 @@ Avec les réfléxions que nous nous sommes faites nous afin modifié le model po
 
 <img width="401" alt="chat final" src="https://github.com/user-attachments/assets/3e38709e-886f-4ee6-8cd0-e1cc33e8bd92" />
 
+# Test Programme 
+Pour vérifier le bon fonctionnement des différentes parties du câblage nous les avons individuellement tester les parties avec des programmes de test. 
 
 
