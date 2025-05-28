@@ -36,7 +36,7 @@ Lors de l'élaboration de notre projet nous avons rencontré des difficultés.
 D'origine mécanique : 
 - Le servo-moteur à une limite mécanique, il ne peut tourner que de 180°
 - La forme de la structure ne permettait pas une bonne circulation des pales
-<img width="390" alt="Branchements" src="https://github.com/user-attachments/assets/11d86a54-8716-4a5e-81bc-54ae87abbe6a" />
+
                       
 D'oginine câblage : 
 - Inversion des branchements “echo/trig” du capteur de distance
@@ -61,5 +61,5 @@ Avec les réfléxions que nous nous sommes faites nous afin modifié le model po
 
 # Test Programme 
 Pour vérifier le bon fonctionnement des différentes parties du câblage nous les avons individuellement tester les parties avec des programmes de test. 
-
+<img width="390" alt="Branchements" src="https://github.com/user-attachments/assets/11d86a54-8716-4a5e-81bc-54ae87abbe6a" />
 
