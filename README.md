@@ -40,7 +40,7 @@ D'origine mécanique :
 D'oginine câblage : 
 - Inversion des branchements “echo/trig” du capteur de distance
 - 
-<img width="200" alt="Branchements" src="https://github.com/user-attachments/assets/cc5f5627-c7f5-4720-9860-5be0075d4b9a />
+<img width="390" alt="Branchements" src="https://github.com/user-attachments/assets/cc5f5627-c7f5-4720-9860-5be0075d4b9a />
 
 # Modifications apportée
 
