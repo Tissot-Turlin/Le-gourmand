@@ -10,7 +10,7 @@ const int servoPin = A1;
 Servo myServo;
 
 unsigned long lastMoveTime = 0;             // Dernier mouvement
-const unsigned long delayBetweenMoves = 3000; // 2 minutes = 120000 ms
+const unsigned long delayBetweenMoves = 3000; // 3 secondes = 120000 ms
 
 int servoAngle = 0;  // Position actuelle du servo
 
